@@ -83,7 +83,6 @@ author:
   location         : "San Diego, CA, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=4g4MKQ4AAAAJ&hl=en&oi=ao"
-  researchgate     : "https://www.researchgate.net/profile/Amin-Ghaffari-3?ev=hdr_xprf"
   email            :
   uri              :
   bitbucket        :
@@ -93,6 +92,9 @@ author:
   facebook         :
   foursquare       :
   github           : 
+  - label: "ResearchGate"
+  icon: "fab fa-researchgate"
+  url: "https://www.researchgate.net/profile/Amin-Ghaffari-3?ev=hdr_xprf"
   google_plus      :
   keybase          :
   instagram        :
