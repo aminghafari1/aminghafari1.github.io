@@ -82,7 +82,7 @@ author:
   bio              : "Bioengineering PhD candidate @ UC Riverside"
   location         : "San Diego, CA, USA"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=4g4MKQ4AAAAJ&hl=en&oi=ao"
   email            :
   uri              :
   bitbucket        :
@@ -91,19 +91,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/amghaffari"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0002-1280-3049"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
