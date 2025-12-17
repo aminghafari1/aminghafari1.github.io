@@ -12,7 +12,9 @@ I’m a Bioengineering PhD candidate at the University of California, Riverside,
 
 My work focuses on developing data-driven and computational methods for analyzing brain imaging data, particularly functional MRI (fMRI) and functional connectivity, with the goal of identifying robust, interpretable biomarkers of brain aging and neurodegenerative disorders. I am especially interested in connectome-based predictive modeling, dynamic functional connectivity, and individualized brain signatures for early detection and phenotyping across aging-related conditions such as Alzheimer’s disease, Parkinson’s disease, and physical frailty. I conduct my research under supervision of [Dr. Xiaoping Hu](https://scholar.google.com/citations?user=OlOZit0AAAAJ&hl=en&oi=ao) from the bioengineering department of UCR, and [Dr. Ilanna Bennett](https://scholar.google.com/citations?user=zX27_H0AAAAJ&hl=en) from the psychology department of UCR.
 
-In broad terms, my research integrates image and signal processing, machine learning, and computational neuroscience to analyze high-dimensional biomedical data, with a focus on interpretability, robustness, and reproducibility. I develop computational pipelines for multimodal imaging, longitudinal analysis, and personalized prediction with translational relevance.
+🧠 In summer 2025, I had an amazing experience as a Medical Image Analyst Intern at
+<a href="https://www.neurocrine.com/" target="_blank">Neurocrine Biosciences</a>
+<img src="/images/neurocrine-logo.png" alt="Neurocrine Biosciences" style="height:22px; vertical-align:middle; margin-left:6px;"> where I applied my algorithm development and computer vision skills to observe the effects of a candidate Alzheimer's disease drug on brain activation patterns of older adults. 
 
 ## News ⬇️ *(Scroll down)*
 
