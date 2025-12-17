@@ -16,6 +16,8 @@ My work focuses on developing data-driven and computational methods for analyzin
 <a href="https://www.neurocrine.com/" target="_blank">Neurocrine Biosciences</a>
 <img src="/images/neurocrine-logo.png" alt="Neurocrine Biosciences" style="height:22px; vertical-align:middle; margin-left:6px;"> where I applied my algorithm development and computer vision skills to observe the effects of a candidate Alzheimer's disease drug on brain activation patterns of older adults. 
 
+Prior to my current role, I was an undergraduate research assistant at Amirkabir university of technology where I simulated the performance of medical devices using computational fluid dynamic (CFD), and Finite Element Analysis (FEA) to design the geometry of cardiovascular devices, particularly coronary stents, according to FDA criteria.
+
 ## News ⬇️ *(Scroll down)*
 
 <div class="news-box" markdown="1">
