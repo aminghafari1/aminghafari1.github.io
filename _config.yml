@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Amin Ghaffari"
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   bio              : "Bioengineering PhD candidate @ UC Riverside"
   location         : "San Diego, CA, USA"
   employer         :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/aminghafari1"
+  github           : "aminghafari1"
   google_plus      :
   keybase          :
   instagram        :
