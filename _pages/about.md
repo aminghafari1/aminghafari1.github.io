@@ -16,14 +16,13 @@ In broad terms, my research integrates image and signal processing, machine lear
 
 ## News ⬇️ *(Scroll down)*
 
-<div style="max-height: 260px; overflow-y: auto; font-size: 0.95em;">
+<div class="news-box" markdown="1">
 
-- **Summer 2025:** Research Intern at **Neurocrine Biosciences**, developing image-processing pipelines for fMRI-based drug response analysis.
-- **April 2025:** Presented work on dynamic brain fingerprinting at **ISBI 2025**.
-- **March 2025:** Poster accepted at **ISBI 2025** on frailty prediction using connectome-based predictive modeling.
-- **2024:** Paper on functional connectome alterations across the Alzheimer’s disease spectrum submitted to *Brain Connectivity*.
-- **2024:** Reviewer for neuroimaging and machine learning conferences/journals.
-- **2023:** Began PhD in Bioengineering at **UC Riverside**.
+- **Summer 2025:** ...
+- **April 2025:** ...
+- **March 2025:** ...
+- **2024:** ...
+- **2023:** ...
 
 </div>
 
