@@ -18,7 +18,7 @@ My work focuses on developing data-driven and computational methods for analyzin
 
 Prior to my current role, I was an undergraduate research assistant at Amirkabir university of technology where I simulated the performance of medical devices using computational fluid dynamic (CFD), and Finite Element Analysis (FEA) to design the geometry of cardiovascular devices, particularly coronary stents, according to FDA criteria.
 
-## News ⬇️ *(Scroll down)*
+## Recent Updates
 
 <div class="news-box" markdown="1">
 
@@ -53,7 +53,7 @@ Prior to my current role, I was an undergraduate research assistant at Amirkabir
 - **April 2025:** ...
 - **March 2025:** ...
 - **2024:** ...
-- **2023:** ...
+- **2024:** Poster accepted at **[OHBM 2024](https://www.humanbrainmapping.org/)** — *Human Functional Connectome Fingerprinting Using Resting-State Dynamic Functional Connectivity* (Seoul, South Korea).
 
 </div>
 
