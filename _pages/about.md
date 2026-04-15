@@ -21,6 +21,7 @@ Prior to my current role, I was an undergraduate research assistant at Amirkabir
 ## Recent Updates
 
 <div class="news-box" style="max-height:240px; overflow-y:auto;" markdown="1">
+- **February 2026:** Published *Dynamic Fingerprinting of The Human Functional Connectome* in **Brain Connectivity** — [full text](https://journals.sagepub.com/doi/abs/10.1177/21580014261420882).
 - **January 2026:** My study on brain connectivity and physical strength in aging was featured by **UC Riverside News** — [news](https://news.ucr.edu/articles/2026/01/13/getting-grip-aging), [paper](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2025.1697908/full).
 - **January 2026:** Earned a *Certificate of Introduction to Image Processing and Computer Vision* from **IBM** via **Coursera**.
 - **December 2025:** Published *Functional Connectome Alterations Across the Spectrum of Alzheimer’s Disease* in the **Journal of Dementia and Alzheimer’s Disease** — [full text](https://www.mdpi.com/3042-4518/2/4/46).
