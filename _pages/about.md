@@ -21,6 +21,7 @@ Prior to my current role, I was an undergraduate research assistant at Amirkabir
 ## Recent Updates
 
 <div class="news-box" style="max-height:240px; overflow-y:auto;" markdown="1">
+- **March 2026:** My study on dynamic brain connectivity and cognitive prediction was featured by **Sagepub News** — [news](https://www.sagepub.com/explore-our-content/blogs/posts/sage-perspectives/2026/03/02/our-brains-have-a-fingerprint-and-it-might-be-able-to-help-us-detect-diseases-earlier?fileId=5269&filename=3922-PCRT-Situational-Analysis-of-Palliative-Care-Education-in-Thai-Medical-Scho.pdf&fileType=pdf), [paper](https://journals.sagepub.com/doi/abs/10.1177/21580014261420882).  
 - **February 2026:** Published *Dynamic Fingerprinting of The Human Functional Connectome* in **Brain Connectivity** — [full text](https://journals.sagepub.com/doi/abs/10.1177/21580014261420882).
 - **January 2026:** My study on brain connectivity and physical strength in aging was featured by **UC Riverside News** — [news](https://news.ucr.edu/articles/2026/01/13/getting-grip-aging), [paper](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2025.1697908/full).
 - **January 2026:** Earned a *Certificate of Introduction to Image Processing and Computer Vision* from **IBM** via **Coursera**.
