@@ -16,7 +16,8 @@ My work focuses on developing data-driven and computational methods for analyzin
 <a href="https://www.neurocrine.com/" target="_blank">Neurocrine Biosciences</a>
 <img src="/images/neurocrine-logo.png" alt="Neurocrine Biosciences" style="height:22px; vertical-align:middle; margin-left:6px;"> where I applied my algorithm development and computer vision skills to observe the effects of a candidate Alzheimer's disease drug on brain activation patterns of older adults. 
 
-🧬 In summer 2026, I had a great experience as an R&D Data Scientist Intern at  <a href="https://fujifilmbiosciences.fujifilm.com/us" target="_blank">Fujifilm Biosciences</a>, where I applied my data science, bioinformatics analysis and network visualization skills to develop tools for exploring and interpreting complex metabolic networks, gaining valuable experience at the intersection of biotechnology, data analytics, and scientific research.
+🧬 In summer 2026, I had a great experience as an R&D Data Scientist Intern at  <a href="https://fujifilmbiosciences.fujifilm.com/us" target="_blank">Fujifilm Biosciences</a> 
+<img src="/images/neurocrine-logo.png" alt="Neurocrine Biosciences" style="height:22px; vertical-align:middle; margin-left:6px;">, where I applied my data science, bioinformatics analysis and network visualization skills to develop tools for exploring and interpreting complex metabolic networks, gaining valuable experience at the intersection of biotechnology, data analytics, and scientific research.
 
 Prior to my current role, I was an undergraduate research assistant at Amirkabir university of technology where I simulated the performance of medical devices using computational fluid dynamic (CFD), and Finite Element Analysis (FEA) to design the geometry of cardiovascular devices, particularly coronary stents, according to FDA criteria.
 
